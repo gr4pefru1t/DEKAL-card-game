@@ -2,7 +2,7 @@ DEKAL (C Version)
 
 DEKAL is a strategic card game designed for 2–4 players that combines elements of trick-taking and hand management. Players compete to score points by winning specific combinations of cards and carefully planning their moves.
 
-In our version coded in C, the deck and gameplay are fully implemented with random shuffling and simple AI for multiplayer mode.
+In my version coded in C, the deck and gameplay are fully implemented with 2 modes to play with
 How to Execute the Card Game
 With Code::Blocks
 
