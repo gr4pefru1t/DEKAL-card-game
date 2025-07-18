@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1746995910 source:c:\users\dangt\onedrive\desktop\estaca 2024-2025\algo\projet dekal v2\projet dekal v2\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"tests.h"
+	"declarations.h"
+	"affichage.h"
+
+1746982070 c:\users\dangt\onedrive\desktop\estaca 2024-2025\algo\projet dekal v2\projet dekal v2\declarations.h
+
+1746995518 source:c:\users\dangt\onedrive\desktop\estaca 2024-2025\algo\projet dekal v2\projet dekal v2\initialisation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"declarations.h"
+
+1746993582 source:c:\users\dangt\onedrive\desktop\estaca 2024-2025\algo\projet dekal v2\projet dekal v2\tests.c
+	<stdio.h>
+	<stdlib.h>
+	"declarations.h"
+	"affichage.h"
+
+1746995518 source:c:\users\dangt\onedrive\desktop\estaca 2024-2025\algo\projet dekal v2\projet dekal v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"declarations.h"
+	"initialisation.h"
+	"affichage.h"
+	"tests.h"
+	"partie.h"
+
+1746476655 c:\users\dangt\onedrive\desktop\estaca 2024-2025\algo\projet dekal v2\projet dekal v2\initialisation.h
+
+1746993002 c:\users\dangt\onedrive\desktop\estaca 2024-2025\algo\projet dekal v2\projet dekal v2\affichage.h
+
+1746993516 c:\users\dangt\onedrive\desktop\estaca 2024-2025\algo\projet dekal v2\projet dekal v2\tests.h
+	"declarations.h"
+
+1746439632 source:c:\users\dangt\onedrive\desktop\estaca 2024-2025\algo\projet dekal v2\projet dekal v2\jeu.c
+	"declarations.h"
+
+1746995354 c:\users\dangt\onedrive\desktop\estaca 2024-2025\algo\projet dekal v2\projet dekal v2\partie.h
+
+1746995666 source:c:\users\dangt\onedrive\desktop\estaca 2024-2025\algo\projet dekal v2\projet dekal v2\partie.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"declarations.h"
+	"affichage.h"
+	"initialisation.h"
+	"partie.h"
+
