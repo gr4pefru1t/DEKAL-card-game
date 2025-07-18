@@ -1,0 +1,15 @@
+# Code::Blocks build folders
+bin/
+obj/
+*.exe
+*.o
+*.obj
+*.cbp.user
+*.layout
+*.depend
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
